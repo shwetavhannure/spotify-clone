@@ -45,6 +45,6 @@ spotify-clone
 Deployed using GitHub Pages  
 
 Deployed Link:  
-https://shwetavhannure.github.io/spotify-clone/
+https://shwetavhannure.github.io/spotify-clone-frontend/
 
 ------------------------------------------------------------
